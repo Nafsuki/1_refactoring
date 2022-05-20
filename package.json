@@ -1,0 +1,17 @@
+{
+  "name": "3_refactoring",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fakeDataGenerator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^4.1.0"
+  },
+  "devDependencies": {
+    "jest": "^25.2.4"
+  }
+}
